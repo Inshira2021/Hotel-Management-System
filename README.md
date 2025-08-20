@@ -43,4 +43,4 @@ The Power BI report (`DATAWAREHOUSE.pbix`) provides visualization and analysis o
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DATAWAREHOUSE.git
+   git clone [https://github.com/yourusername/DATAWAREHOUSE.git](https://github.com/Inshira2021/Hotel-Management-System.git)
